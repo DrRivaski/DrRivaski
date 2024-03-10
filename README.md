@@ -6,6 +6,10 @@
 
 <!-- language statistics -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrRivaski&layout=compact)](https://github.com/DrRivaski/github-readme-stats)
+
+<!-- BOJ profile -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesm990708)](https://solved.ac/leesm990708)
 <!--
 **DrRivaski/DrRivaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
