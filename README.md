@@ -4,17 +4,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+  <!-- github stats -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrRivaski&show_icons=true&theme=tokyonight)
+
+  <!-- language statistics -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrRivaski&layout=compact)](https://github.com/DrRivaski/github-readme-stats)
+
+  <!-- BOJ profile -->
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesm990708)](https://solved.ac/leesm990708)
 </p>
 
-<!-- github stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrRivaski&show_icons=true&theme=tokyonight)
-
-<!-- language statistics -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrRivaski&layout=compact)](https://github.com/DrRivaski/github-readme-stats)
-
-<!-- BOJ profile -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesm990708)](https://solved.ac/leesm990708)
 <!--
 **DrRivaski/DrRivaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
